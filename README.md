@@ -9,13 +9,3 @@ This tool transforms natural language queries into data visualizations, enabling
 - Visualizations in various formats (e.g., bar, scatter, pie)
 - Uses LangGraph for query orchestration
 
-## Demo
-[Demo Video](demo.mov)
-
-## System Overview
-
-- SQLite server for file uploads and database management
-- LangGraph orchestration for generating and executing SQL queries
-- Frontend with visualization templates
-- Integration with LangGraph’s streaming API
-
